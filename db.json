@@ -12,7 +12,7 @@
   "posts2":[
     {
       "id": 1,
-      "title": "post2",
+      "err":"404",
       "lng": {
         "main": "php",
         "other": "js"
