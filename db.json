@@ -1,0 +1,15 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+      "lng": {
+        "main: "php",
+        "other": "js"
+      }
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
