@@ -1,12 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello",
-      "lng": {
-        "main": "php",
-        "other": "js"
-      }
+      "error":"404"
     }
   ],
   "profile": {
